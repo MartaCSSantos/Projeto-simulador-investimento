@@ -1,5 +1,6 @@
 # Projeto-simulador-investimento
-O projeto contém uma tabela que simula investimentos em fundos imobiliários
+O projeto contém uma tabela que simula investimentos em fundos imobiliários.
+
 Na Bank Invest serão respondidas as suas principais dúvidas como:
 
 Quanto investir por mês ?
